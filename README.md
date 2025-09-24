@@ -38,16 +38,9 @@ portfolio/
 │── themetoggle.js   # For blue theme interactivity
 │── README.md        # Project documentation
 
-
 ---
 
-⚡ Quick tip:  
-Replace  
-- `https://your-portfolio-link.com` → with your **Netlify/Vercel/GitHub Pages live link**  
-- `your-username/your-repo-name` → with your **actual repo link**  
-- `your-email@example.com`, `@yourhandle`, `LinkedIn` → with your real contact links  
 
----
 ## 🔗 Live Demo  
 
 👉 [View Portfolio Website](https://my-portfolio-web-gray-seven.vercel.app/)
@@ -69,6 +62,3 @@ If you have suggestions, improvements, or feedback, please:
 - Or reach out to me via [email](mailto:emmanuelabidoye2021@gmail.com)  
 
 Your insights mean a lot and will help me grow 🙏  
-
-
-
