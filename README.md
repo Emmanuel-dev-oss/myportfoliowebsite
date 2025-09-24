@@ -37,6 +37,7 @@ portfolio/
 │── themes.js        # For light and dark theme interactivity
 │── themetoggle.js   # For blue theme interactivity
 │── README.md        # Project documentation
+```
 
 ---
 
@@ -46,19 +47,20 @@ portfolio/
 👉 [View Portfolio Website](https://my-portfolio-web-gray-seven.vercel.app/)
 
 ---
-
 ## 📬 Contact  
 I’d love to connect and hear your feedback!  
 - 💼 GitHub: [EmmanuxDev](https://github.com/Emmanuel-dev-oss)  
 - 📧 Email: emmanuelabidoye2021@gmail.com  
 - 🔗 LinkedIn: [Emmanuel Abidoye](https://linkedin.com/in/emmanuel-abidoye)
-
 ---
 
 # This is not perfect, but I’m learning step by step.  
 
 If you have suggestions, improvements, or feedback, please:  
-- Open an [issue](../../issues) on this repository  
-- Or reach out to me via [email](mailto:emmanuelabidoye2021@gmail.com)  
+- Reach out to me via [email](mailto:emmanuelabidoye2021@gmail.com)
+
+
+
+
 
 Your insights mean a lot and will help me grow 🙏  
